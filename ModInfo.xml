@@ -1,0 +1,18 @@
+<Mod ID="Choose_Day">
+  <Compatible>1.11b</Compatible>
+  <Button Standard="O" ID="Choose_Day_Key">
+    <Name>
+      <EN>Choose Day Key</EN>
+    </Name>
+    <Description>
+      <EN>Hotkey for the mod action</EN>
+    </Description>
+  </Button>
+  <Name>
+    <EN>Choose Game Day</EN>
+  </Name>
+  <Description>
+    <EN>Choose the number of days that have passed in the game.</EN>
+  </Description>
+  <Version>1.0.0.0</Version>
+</Mod>

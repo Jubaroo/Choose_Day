@@ -1,0 +1,5 @@
+D:\SteamLibrary\steamapps\common\The Forest\modapi_20180429_1.0.5.0\projects\TheForest\Choose_Day\obj\x86\Release\Choose_Day.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\The Forest\modapi_20180429_1.0.5.0\projects\TheForest\Choose_Day\Mod\Choose_Day.dll
+D:\SteamLibrary\steamapps\common\The Forest\modapi_20180429_1.0.5.0\projects\TheForest\Choose_Day\Mod\Choose_Day.pdb
+D:\SteamLibrary\steamapps\common\The Forest\modapi_20180429_1.0.5.0\projects\TheForest\Choose_Day\obj\x86\Release\Choose_Day.dll
+D:\SteamLibrary\steamapps\common\The Forest\modapi_20180429_1.0.5.0\projects\TheForest\Choose_Day\obj\x86\Release\Choose_Day.pdb
